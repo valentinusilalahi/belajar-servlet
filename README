@@ -1,0 +1,7 @@
+Belajar Java Web
+1. Membuat Struktur Project Maven
+2. Membuat DDL statement skema database penyimpanan sesuai form
+3. Membuat Form HTML
+4. Membuat Class Menampung data dari form (Domain Object)
+5. Membuat Class utk menyimpan object ke database
+6. Membuat Class utk proses form yang disubmit user
